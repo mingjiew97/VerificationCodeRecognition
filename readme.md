@@ -1,4 +1,4 @@
-Giving Credit to the origional project
+Giving Credit to the demo project that I look into
 https://github.com/hellokuls/cnnyzm
 
 
